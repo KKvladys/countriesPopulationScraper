@@ -38,7 +38,7 @@ The data source is selected via the `DATA_SOURCE` environment variable.
    git clone https://github.com/KKvladys/countriesPopulationScraper.git
    ```
    ```bash
-   cd population-scraper
+   cd countriesPopulationScraper
     ```
 
 ## 🔧 Environment Variables
